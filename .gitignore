@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+*.suo
+.VSCode/
+dados_tarefas.json
